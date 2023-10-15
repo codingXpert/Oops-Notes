@@ -24,10 +24,31 @@ It is a methodology or style to develop the programs using class and objects.
 **1.Class**
 * Class is a user defined datatype.
 * Class is a model/template/blueprint/prototype for creating object.
-* Class contains data member and member function together.
-* Class is a logical entity.
+* Class contains data member and member 
+function together.
+* Class is used to represent/define the properties(variables) and behavior(function/method) of an object.
+* Properties tells us which types of properties/variable the class have.
+* Behavior tells us about for which purpose/operation this class is created. 
+* Class is a logical entity(or we can say it is a logical thinking in general word).
 
 ![oops1](https://github.com/codingXpert/Oops-Notes/assets/101451924/55b793f3-4a66-4ca3-ab19-e177a800b372)
 
 * In the above image we have a class pen having some properties like color and type(prototypes).
 Now this prototype is in internal mind or memory of the program and it will not come into picture until we create an actual product using this prototype and this actual product creation is done through Objects in programming.
+
+**2.Objects**
+* Object is an instance of a class.
+* An Object is a physical entity which exist in the real world.
+*  Each object has an identity, a behavior and a state. The state of an object is stored in fields (variables), while methods (functions) display the object's behavior. Objects are created at runtime from templates or classes. 
+* **Characteristics**
+a. Identification(Name of the object)
+b. Properties(Variables)
+c. Behavior(function/methods)
+
+**Example**
+![Screenshot 2023-10-15 112537](https://github.com/codingXpert/Oops-Notes/assets/101451924/f388649f-6023-4984-8748-a8fa54816056)
+
+![Screenshot 2023-10-15 114735](https://github.com/codingXpert/Oops-Notes/assets/101451924/b62c9791-60b2-4fc8-9c19-1506e48e3e65)
+
+
+
