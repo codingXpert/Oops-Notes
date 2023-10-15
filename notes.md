@@ -29,3 +29,5 @@ It is a methodology or style to develop the programs using class and objects.
 
 ![oops1](https://github.com/codingXpert/Oops-Notes/assets/101451924/55b793f3-4a66-4ca3-ab19-e177a800b372)
 
+* In the above image we have a class pen having some properties like color and type(prototypes).
+Now this prototype is in internal mind or memory of the program and it will not come into picture until we create an actual product using this prototype and this actual product creation is done through Objects in programming.
