@@ -50,5 +50,13 @@ c. Behavior(function/methods)
 
 ![Screenshot 2023-10-15 114735](https://github.com/codingXpert/Oops-Notes/assets/101451924/b62c9791-60b2-4fc8-9c19-1506e48e3e65)
 
+**Examples(Variable)**
+![Screenshot 2023-10-15 150838](https://github.com/codingXpert/Oops-Notes/assets/101451924/7a67a966-c263-45a3-a457-86ee3828412a)
+
+**Types Of Variable**
+![Screenshot 2023-10-15 151218](https://github.com/codingXpert/Oops-Notes/assets/101451924/2b2c605e-5ab3-4a97-9721-30ef79b2b6d0)
+
+![Screenshot 2023-10-15 151726](https://github.com/codingXpert/Oops-Notes/assets/101451924/586aec5c-28fa-452d-9a96-653f3526115a)
+
 
 
