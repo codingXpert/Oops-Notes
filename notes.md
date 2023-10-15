@@ -105,5 +105,14 @@ String - null,
 float - 0.0,
 Object - null,
 
+**> Examples:- Default Constructor**
+
+![Screenshot 2023-10-15 154056](https://github.com/codingXpert/Oops-Notes/assets/101451924/3c75f0d4-eb21-4f34-b79b-db26aff7cfc8)
+
+![Screenshot 2023-10-15 154642](https://github.com/codingXpert/Oops-Notes/assets/101451924/02e29192-7ffb-4687-8480-fb720661afcd)
+
+![Screenshot 2023-10-15 155045](https://github.com/codingXpert/Oops-Notes/assets/101451924/8bcef6f3-d94c-4ffa-aa03-0b6dc3e77488)
+
+![Screenshot 2023-10-15 155052](https://github.com/codingXpert/Oops-Notes/assets/101451924/c7210605-cecd-43a5-b2e4-775588b2167d)
 
 
