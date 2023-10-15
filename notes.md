@@ -99,12 +99,11 @@ then compiler automatically adds a constructor.
 
 * The purpose is to initialize the variables/instance variables with some default values provided by the compiler.
 
-Defaults Values:-
-----------------
-int - 0
-String - null
-float - 0.0
-Object - null
+* Defaults Values:-
+int - 0,
+String - null,
+float - 0.0,
+Object - null,
 
 
 
