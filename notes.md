@@ -115,4 +115,8 @@ Object - null,
 
 ![Screenshot 2023-10-15 155052](https://github.com/codingXpert/Oops-Notes/assets/101451924/c7210605-cecd-43a5-b2e4-775588b2167d)
 
+**Overwrite the default values of the instance variable**
 
+![Screenshot 2023-10-15 165953](https://github.com/codingXpert/Oops-Notes/assets/101451924/323cc85f-be93-4e2f-bc3d-11e23ab7c76f)
+
+![Screenshot 2023-10-15 170342](https://github.com/codingXpert/Oops-Notes/assets/101451924/eb8249dd-c77c-4b99-9337-41191e3a6088)
