@@ -58,6 +58,11 @@ c. Behavior(function/methods)
 
 ![Screenshot 2023-10-15 151726](https://github.com/codingXpert/Oops-Notes/assets/101451924/586aec5c-28fa-452d-9a96-653f3526115a)
 
+![Screenshot 2023-10-16 083143](https://github.com/codingXpert/Oops-Notes/assets/101451924/cff35aaa-c9c0-467f-9b71-a8dc0d9a3836)
+
+![Screenshot 2023-10-16 083419](https://github.com/codingXpert/Oops-Notes/assets/101451924/2e89121a-b4bb-4a24-ac3e-83c516763d58)
+
+
 **2.b> Constructor**
 
 ![constructor](https://github.com/codingXpert/Oops-Notes/assets/101451924/98f2b814-8628-4902-8dab-09c6b91a5193)
@@ -120,3 +125,33 @@ Object - null,
 ![Screenshot 2023-10-15 165953](https://github.com/codingXpert/Oops-Notes/assets/101451924/323cc85f-be93-4e2f-bc3d-11e23ab7c76f)
 
 ![Screenshot 2023-10-15 170342](https://github.com/codingXpert/Oops-Notes/assets/101451924/eb8249dd-c77c-4b99-9337-41191e3a6088)
+
+
+#### Reusability of a class
+***
+
+* The code or program is not considered as fully object oriented programming approach if we write all the logic in a single class only also it reduces the reusability of the code.
+
+* So to overcome this and to increase reusability, it is recommended to separate the classes as Business Logic Class(BLC) and Executable Logic Class(ELC).
+
+![Screenshot 2023-10-16 084312](https://github.com/codingXpert/Oops-Notes/assets/101451924/c7c416cb-35d0-4a17-af15-c7b05d502f56)
+
+* The BLC will contain all the actual logic or actual implementation for a problem.
+
+* The ELC will contain the main() which allow call the BLC using object and execute it.
+
+>Now there is a couple of problems in this approach:
+
+>* We have to create two classes(or more as per use) in a single file and it is totally allowed, but we can make only one as public class out of two or more classes.
+>* Only that class is created as public class, whose name is used as file name.
+>* If we do not create multiple classes as public we are not able to use that class outside the file or in some other files or classes and this is again reusing the reusability.
+
+>* **Now to overcome this problem we have to create two separate files(for this situation only) with public class:** One class will contain the code logic and the another class will contain the executable main method.
+
+**Example**
+
+![Screenshot 2023-10-16 085229](https://github.com/codingXpert/Oops-Notes/assets/101451924/9a2781d7-4850-4d85-a064-0f9386c28ce1)
+
+![Screenshot 2023-10-16 085303](https://github.com/codingXpert/Oops-Notes/assets/101451924/f62ac98d-12cb-41f2-9068-baabaa00805d)
+
+* In the above example we have created two classes and to use the variables and methods of Customer class we have created the object of Customer class in Main class. 
