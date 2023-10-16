@@ -161,7 +161,8 @@ Object - null,
 ***
 
 * If we declare a variable inside a class but outside a function then it is called instance variable.
-* Inside each and every object there is a separate copy the instance variable,
+* Inside each and every object there is a separate copy the instance variable.
+* Changes made in the variable of one object does reflect to the variable of the another object.
 
 **Example**
 
