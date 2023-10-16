@@ -155,3 +155,15 @@ Object - null,
 ![Screenshot 2023-10-16 085303](https://github.com/codingXpert/Oops-Notes/assets/101451924/f62ac98d-12cb-41f2-9068-baabaa00805d)
 
 * In the above example we have created two classes and to use the variables and methods of Customer class we have created the object of Customer class in Main class. 
+
+
+### Role of instance variable at object creation
+***
+
+* If we declare a variable inside a class but outside a function then it is called instance variable.
+* Inside each and every object there is a separate copy the instance variable,
+
+**Example**
+
+![Screenshot 2023-10-16 231005](https://github.com/codingXpert/Oops-Notes/assets/101451924/530d415f-8162-41c1-9933-84e7cf730a99)
+
