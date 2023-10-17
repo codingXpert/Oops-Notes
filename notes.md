@@ -168,3 +168,17 @@ Object - null,
 
 ![Screenshot 2023-10-16 231005](https://github.com/codingXpert/Oops-Notes/assets/101451924/530d415f-8162-41c1-9933-84e7cf730a99)
 
+### This Keyword
+***
+
+![Screenshot 2023-10-17 150035](https://github.com/codingXpert/Oops-Notes/assets/101451924/e2930efb-3296-4b85-87e7-3e1f179ae01c)
+
+![Screenshot 2023-10-17 150043](https://github.com/codingXpert/Oops-Notes/assets/101451924/601a4741-fadf-46ad-9a41-4b0bf9a8c511)
+
+> **Example**
+
+![Screenshot 2023-10-17 150326](https://github.com/codingXpert/Oops-Notes/assets/101451924/6558ad94-fd34-41b9-a603-685315e2d9fb)
+
+![Screenshot 2023-10-17 150343](https://github.com/codingXpert/Oops-Notes/assets/101451924/96ae7b54-3df4-4735-8a29-a569ba5a388a)
+
+![Screenshot 2023-10-17 150403](https://github.com/codingXpert/Oops-Notes/assets/101451924/40a27129-5fe8-491a-8d38-68c66f48aba6)
