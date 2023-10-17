@@ -26,7 +26,7 @@ It is a methodology or style to develop the programs using class and objects.
 * Class is a model/template/blueprint/prototype for creating object.
 * Class contains data member and member 
 function together.
-* Class is used to represent/define the properties(variables) and behavior(function/method) of an object.
+* Class is a component used to represent/define the properties(variables) and behavior(function/method) of an object.
 * Properties tells us which types of properties/variable the class have.
 * Behavior tells us about for which purpose/operation this class is created. 
 * Class is a logical entity(or we can say it is a logical thinking in general word).
@@ -182,3 +182,32 @@ Object - null,
 ![Screenshot 2023-10-17 150343](https://github.com/codingXpert/Oops-Notes/assets/101451924/96ae7b54-3df4-4735-8a29-a569ba5a388a)
 
 ![Screenshot 2023-10-17 150403](https://github.com/codingXpert/Oops-Notes/assets/101451924/40a27129-5fe8-491a-8d38-68c66f48aba6)
+
+
+### Data Hiding
+***
+
+* Data hiding is the concept of hiding or restricting the access of important data from the outside world.
+* To hide the data java have the feature of access modifier(default, public, private, protected).
+
+**Example**
+
+![Screenshot 2023-10-17 165940](https://github.com/codingXpert/Oops-Notes/assets/101451924/20b60eee-19e5-4ef7-9c56-74890234c2c5)
+
+![Screenshot 2023-10-17 171100](https://github.com/codingXpert/Oops-Notes/assets/101451924/f3b428b3-3614-417d-8220-4811aa695fab)
+
+![Screenshot 2023-10-17 171044](https://github.com/codingXpert/Oops-Notes/assets/101451924/6cb8e23e-5476-4477-8784-267b480109b5)
+
+
+* In the above example we have two separate files having separate classes named as BankAppIn(ELC) and Customer(BLC).
+* In Class Customer we have to methods balance() and deposit().
+* And in Class BankAppIn we have the main() from where we are accessing the variable and behavior of the Customer Class.
+* Now suppose there is a hacker who is accessing and modifying the balance variable from outside which is backing the security of our system(as the balance should not be accessed or modified from the outside ,it is an internal thing).
+* So we need to hide the important things like balance from being accessed from the outside world. And for this we will use access modifiers & will make the variables or important things private or protected as required.
+
+**Example**
+
+![Screenshot 2023-10-17 173053](https://github.com/codingXpert/Oops-Notes/assets/101451924/6970ad20-0aa9-42b2-89e4-e25761ea0466)
+
+![Screenshot 2023-10-17 171116](https://github.com/codingXpert/Oops-Notes/assets/101451924/89d28137-547f-4972-a963-20618ff468e1)
+
