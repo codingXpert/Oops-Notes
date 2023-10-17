@@ -211,3 +211,7 @@ Object - null,
 
 ![Screenshot 2023-10-17 171116](https://github.com/codingXpert/Oops-Notes/assets/101451924/89d28137-547f-4972-a963-20618ff468e1)
 
+### Abstraction
+***
+
+![Screenshot 2023-10-17 174911](https://github.com/codingXpert/Oops-Notes/assets/101451924/c7d8311e-fe1a-4f16-bf15-fed4d69e88f6)
