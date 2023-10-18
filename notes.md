@@ -126,6 +126,27 @@ Object - null,
 
 ![Screenshot 2023-10-15 170342](https://github.com/codingXpert/Oops-Notes/assets/101451924/eb8249dd-c77c-4b99-9337-41191e3a6088)
 
+### Advantage of using constructor
+
+![Screenshot 2023-10-18 105412](https://github.com/codingXpert/Oops-Notes/assets/101451924/76373736-b41b-4ca9-ac8a-4c926f3be8d2)
+
+![Screenshot 2023-10-18 105503](https://github.com/codingXpert/Oops-Notes/assets/101451924/b4e5eb57-bbe9-4276-89ab-c0ad6f5ebf51)
+
+* In the above example we have defined our own constructor having name Employee and we are not initializing any value for the variable eno.
+* However eno will print 0 as output, but the question is how it prints 0, because there is no concept of default constructor which will initialize eno with any default value.
+* So the answer is there is a super() constructor in every class which is setting the default values to the variable eno.
+* Even if we initialize any value to the variable eno , first it will initialize with zero and the it will be re-initialized with the given value.
+
+![Screenshot 2023-10-18 110026](https://github.com/codingXpert/Oops-Notes/assets/101451924/6dfb4168-97c6-47ed-b7ec-9043fc53edf4)
+
+![Screenshot 2023-10-18 105615](https://github.com/codingXpert/Oops-Notes/assets/101451924/7885dbfa-920e-4603-ab48-441e3f9cbf47)
+
+**Conclusion**
+
+![Screenshot 2023-10-18 105412](https://github.com/codingXpert/Oops-Notes/assets/101451924/d78fa3e5-a60c-4d6e-9bf4-78f60fbe28e4)
+
+
+
 
 #### Reusability of a class
 ***
