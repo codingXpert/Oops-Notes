@@ -215,3 +215,14 @@ Object - null,
 ***
 
 ![Screenshot 2023-10-17 174911](https://github.com/codingXpert/Oops-Notes/assets/101451924/c7d8311e-fe1a-4f16-bf15-fed4d69e88f6)
+
+### Encapsulation
+***
+
+![Screenshot 2023-10-18 092943](https://github.com/codingXpert/Oops-Notes/assets/101451924/690213a6-f663-4538-9815-034bf128fd85)
+
+![Screenshot 2023-10-18 093111](https://github.com/codingXpert/Oops-Notes/assets/101451924/b5411d58-279b-4f74-9312-b39c2a42182e)
+
+![Screenshot 2023-10-18 094208](https://github.com/codingXpert/Oops-Notes/assets/101451924/8ab10b9d-fd91-49f0-85fb-e7cdd211151e)
+
+![Screenshot 2023-10-18 094253](https://github.com/codingXpert/Oops-Notes/assets/101451924/68b15d3b-f246-4f68-8a08-9f51b5024ba3)
