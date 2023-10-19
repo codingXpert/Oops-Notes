@@ -65,6 +65,11 @@ c. Behavior(function/methods)
 
 **2.b> Constructor**
 
+![Screenshot 2023-10-19 083640](https://github.com/codingXpert/Oops-Notes/assets/101451924/739c35ed-a09e-45e9-bd33-f6282c7b3081)
+
+![Screenshot 2023-10-19 083841](https://github.com/codingXpert/Oops-Notes/assets/101451924/b26f632d-8754-4ee4-bb70-0822245ffd38)
+
+
 ![constructor](https://github.com/codingXpert/Oops-Notes/assets/101451924/98f2b814-8628-4902-8dab-09c6b91a5193)
 
 **Types OF Constructor**
