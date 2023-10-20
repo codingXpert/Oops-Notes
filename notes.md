@@ -151,9 +151,6 @@ Object - null,
 ![Screenshot 2023-10-18 105352](https://github.com/codingXpert/Oops-Notes/assets/101451924/ccb118e9-6a47-4b29-a658-a14e8173f6f5)
 
 
-
-
-
 #### Reusability of a class
 ***
 
@@ -255,3 +252,38 @@ Object - null,
 ![Screenshot 2023-10-18 101625](https://github.com/codingXpert/Oops-Notes/assets/101451924/8031be10-72c3-4a85-b4b9-62dc05e6994d)
 
 
+### HAS-A Relation(Relation B/W two or more classes)
+***
+
+* Suppose we have two classes College and Student, then a student always HAS-A class.
+
+![Screenshot 2023-10-20 093834](https://github.com/codingXpert/Oops-Notes/assets/101451924/5de17041-a896-42c9-a7f5-de3dba63fd17)
+
+**Example**
+
+![Screenshot 2023-10-20 093309](https://github.com/codingXpert/Oops-Notes/assets/101451924/1d9e131e-e4e0-4a76-871a-781c4cb7539c)
+
+![Screenshot 2023-10-20 093529](https://github.com/codingXpert/Oops-Notes/assets/101451924/f4f84a9e-7b4b-45bd-9bb9-3a1640e2f391)
+
+![Screenshot 2023-10-20 093634](https://github.com/codingXpert/Oops-Notes/assets/101451924/826ddc5a-542d-4579-918f-0c2de29b49b2)
+
+![Screenshot 2023-10-20 093757](https://github.com/codingXpert/Oops-Notes/assets/101451924/366b4b90-1565-4c08-b29f-846897d276c9)
+
+![Screenshot 2023-10-20 093834](https://github.com/codingXpert/Oops-Notes/assets/101451924/8530ad0c-60a8-4ff7-b682-2f88050cef4b)
+
+* In the above example we are using data hiding concept for the variables of Student class but not for the variables of Class class this is because we are accessing/using the variables of class Class in class Student and if we make them private we can not access/use them outside of that class.
+
+* But for the security purpose and to achieve 100% Oops we should use data hiding concept, but as soon as we make the variables of class Class private , the variable is no more accessible to the class Student.
+
+* Now to access them we will getter and setter method , So that no one can access it from outside and modify it.
+
+**Example**
+
+![Screenshot 2023-10-20 101405](https://github.com/codingXpert/Oops-Notes/assets/101451924/2151ab8a-7c41-4d65-986d-e1407edfef19)
+
+![Screenshot 2023-10-20 101426](https://github.com/codingXpert/Oops-Notes/assets/101451924/245a7edf-7c53-4f5d-a60d-fbbef1b43654)
+
+**Now to overcome the above situation we will getter**
+
+![Screenshot 2023-10-20 101515](https://github.com/codingXpert/Oops-Notes/assets/101451924/31652844-cb0b-4b13-9a60-f6684983adf0)
+![Screenshot 2023-10-20 101542](https://github.com/codingXpert/Oops-Notes/assets/101451924/e56bcdfb-c8d4-4495-b9d0-9f2ad8bdb4b2)
