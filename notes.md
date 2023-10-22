@@ -287,3 +287,18 @@ Object - null,
 
 ![Screenshot 2023-10-20 101515](https://github.com/codingXpert/Oops-Notes/assets/101451924/31652844-cb0b-4b13-9a60-f6684983adf0)
 ![Screenshot 2023-10-20 101542](https://github.com/codingXpert/Oops-Notes/assets/101451924/e56bcdfb-c8d4-4495-b9d0-9f2ad8bdb4b2)
+
+### Passing Object Reference To A Parametrized Constructor.
+***
+
+![Screenshot 2023-10-22 204542](https://github.com/codingXpert/Oops-Notes/assets/101451924/a50cd821-61c1-4b0f-8f96-857c59ef1700)
+
+**Example**
+
+![Screenshot 2023-10-22 204503](https://github.com/codingXpert/Oops-Notes/assets/101451924/0ec0a0ab-18e3-452e-b09d-81803738a928)
+
+![Screenshot 2023-10-22 204203](https://github.com/codingXpert/Oops-Notes/assets/101451924/060ab091-7f16-4b78-9f35-9dac31de7d88)
+
+![Screenshot 2023-10-22 204234](https://github.com/codingXpert/Oops-Notes/assets/101451924/99e70302-8d08-4d92-b6c4-24ed8c162236)
+
+
