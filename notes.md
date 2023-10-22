@@ -313,6 +313,20 @@ Object - null,
 
 ![Screenshot 2023-10-22 210417](https://github.com/codingXpert/Oops-Notes/assets/101451924/bf0a70a7-11eb-4bb6-a12d-fc0e717e0e66)
 
+![Screenshot 2023-10-22 211803](https://github.com/codingXpert/Oops-Notes/assets/101451924/fe3603a8-6ffc-4915-95c1-6978381de8b2)
+
+![Screenshot 2023-10-22 211856](https://github.com/codingXpert/Oops-Notes/assets/101451924/1daf4399-121b-438f-ae79-bc1d865b7d1f)
+
+![Screenshot 2023-10-22 212120](https://github.com/codingXpert/Oops-Notes/assets/101451924/1f528cf1-56f6-4bf8-ae78-f3c0f25fc378)
+
+![Screenshot 2023-10-22 212131](https://github.com/codingXpert/Oops-Notes/assets/101451924/cd9bfc5e-5add-4b8a-9af9-3b9fcd08b807)
+
+![Screenshot 2023-10-22 212148](https://github.com/codingXpert/Oops-Notes/assets/101451924/147a5ec9-8c34-4d25-817a-313301317363)
+
+![Screenshot 2023-10-22 212453](https://github.com/codingXpert/Oops-Notes/assets/101451924/fd8485a2-c418-440d-a5bf-99de4d5423f3)
+
+**Basic Example**
+
 ![Screenshot 2023-10-22 210906](https://github.com/codingXpert/Oops-Notes/assets/101451924/16159ce8-6274-4de7-9bd5-08650aaa95eb)
 
 ![Screenshot 2023-10-22 210935](https://github.com/codingXpert/Oops-Notes/assets/101451924/d0518fb4-5de5-4ea0-9055-155cd2cf494b)
