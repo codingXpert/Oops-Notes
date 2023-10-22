@@ -308,6 +308,12 @@ Object - null,
 ![Screenshot 2023-10-22 210116](https://github.com/codingXpert/Oops-Notes/assets/101451924/e042a67d-8167-4238-8186-cb7836f39e1c)
 
 
+### Access Modifiers
+***
+
+![Screenshot 2023-10-22 213424](https://github.com/codingXpert/Oops-Notes/assets/101451924/66ae1616-0b99-4502-a623-b5817ed41136)
+
+
 ### Inheritance
 ***
 
