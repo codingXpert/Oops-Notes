@@ -308,4 +308,17 @@ Object - null,
 ![Screenshot 2023-10-22 210116](https://github.com/codingXpert/Oops-Notes/assets/101451924/e042a67d-8167-4238-8186-cb7836f39e1c)
 
 
+### Inheritance
+***
+
+![Screenshot 2023-10-22 210417](https://github.com/codingXpert/Oops-Notes/assets/101451924/bf0a70a7-11eb-4bb6-a12d-fc0e717e0e66)
+
+![Screenshot 2023-10-22 210906](https://github.com/codingXpert/Oops-Notes/assets/101451924/16159ce8-6274-4de7-9bd5-08650aaa95eb)
+
+![Screenshot 2023-10-22 210935](https://github.com/codingXpert/Oops-Notes/assets/101451924/d0518fb4-5de5-4ea0-9055-155cd2cf494b)
+
+![Screenshot 2023-10-22 211207](https://github.com/codingXpert/Oops-Notes/assets/101451924/5be444d8-c64b-4d2a-85d9-86453f300311)
+
+
+
 
