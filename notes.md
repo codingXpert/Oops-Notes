@@ -301,4 +301,9 @@ Object - null,
 
 ![Screenshot 2023-10-22 204234](https://github.com/codingXpert/Oops-Notes/assets/101451924/99e70302-8d08-4d92-b6c4-24ed8c162236)
 
+* If we want not to use the print statement , the we can use  toString() to return the output.
+
+![Screenshot 2023-10-22 205532](https://github.com/codingXpert/Oops-Notes/assets/101451924/eda2cf19-7300-46f4-93c6-cfab290687e1)
+
+
 
