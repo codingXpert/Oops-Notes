@@ -305,5 +305,7 @@ Object - null,
 
 ![Screenshot 2023-10-22 205532](https://github.com/codingXpert/Oops-Notes/assets/101451924/eda2cf19-7300-46f4-93c6-cfab290687e1)
 
+![Screenshot 2023-10-22 210116](https://github.com/codingXpert/Oops-Notes/assets/101451924/e042a67d-8167-4238-8186-cb7836f39e1c)
+
 
 
