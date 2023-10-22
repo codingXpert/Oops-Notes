@@ -339,6 +339,17 @@ Object - null,
 
 ![Screenshot 2023-10-22 211207](https://github.com/codingXpert/Oops-Notes/assets/101451924/5be444d8-c64b-4d2a-85d9-86453f300311)
 
+**Program On Inheritance**
+
+![Screenshot 2023-10-22 213109](https://github.com/codingXpert/Oops-Notes/assets/101451924/246554e3-438d-48f7-8cda-c03d1b050c0f)
+
+![Screenshot 2023-10-22 213657](https://github.com/codingXpert/Oops-Notes/assets/101451924/c3b39996-8cd3-46c1-ae70-331c79ad2707)
+
+![Screenshot 2023-10-22 213936](https://github.com/codingXpert/Oops-Notes/assets/101451924/876b9e20-0b23-4eaa-b21f-c4de1cf9ccde)
+
+![Screenshot 2023-10-22 214124](https://github.com/codingXpert/Oops-Notes/assets/101451924/3ab18d86-2839-457e-91bf-469bc00f09cb)
+
+
 
 
 
