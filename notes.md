@@ -350,6 +350,16 @@ Object - null,
 ![Screenshot 2023-10-22 214124](https://github.com/codingXpert/Oops-Notes/assets/101451924/3ab18d86-2839-457e-91bf-469bc00f09cb)
 
 
+### Use Of Super Keyword In Inheritance
+***
+
+![Screenshot 2023-10-23 104619](https://github.com/codingXpert/Oops-Notes/assets/101451924/32d2ab1e-5901-4d15-b367-d2419ead9649)
+
+![Screenshot 2023-10-23 104711](https://github.com/codingXpert/Oops-Notes/assets/101451924/aaf4c205-f793-4a2f-9ddd-2c97ba61e299)
+
+![Screenshot 2023-10-23 104513](https://github.com/codingXpert/Oops-Notes/assets/101451924/65761b53-1ddc-46da-844b-83159cb84ae0)
+
+![Screenshot 2023-10-23 104513](https://github.com/codingXpert/Oops-Notes/assets/101451924/438a0e2d-4575-4035-99d5-74126ae746bd)
 
 
 
