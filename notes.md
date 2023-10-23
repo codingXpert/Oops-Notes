@@ -371,5 +371,14 @@ Object - null,
 
 ![Screenshot 2023-10-23 105140](https://github.com/codingXpert/Oops-Notes/assets/101451924/80ed00fd-4d57-4e39-8a95-13c85740030a)
 
+### How Super behaves in case of constructor
+***
 
+![Screenshot 2023-10-23 130923](https://github.com/codingXpert/Oops-Notes/assets/101451924/4c6c0029-6ea5-4a5a-ada6-2e1a4383010a)
+
+![Screenshot 2023-10-23 130146](https://github.com/codingXpert/Oops-Notes/assets/101451924/63242896-1633-47b2-aad5-ce4e2f0c0031)
+
+![Screenshot 2023-10-23 130153](https://github.com/codingXpert/Oops-Notes/assets/101451924/48491603-4d81-4619-bbb5-7049c0e6a1af)
+
+![Screenshot 2023-10-23 130852](https://github.com/codingXpert/Oops-Notes/assets/101451924/ccf3e921-b003-4d3a-9c43-206b1d89f57c)
 
