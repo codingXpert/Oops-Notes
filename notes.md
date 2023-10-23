@@ -361,5 +361,10 @@ Object - null,
 
 ![Screenshot 2023-10-23 104513](https://github.com/codingXpert/Oops-Notes/assets/101451924/438a0e2d-4575-4035-99d5-74126ae746bd)
 
+**Example Program**
+
+![Screenshot 2023-10-23 104611](https://github.com/codingXpert/Oops-Notes/assets/101451924/a675cf7b-44c2-4e72-a2c2-42f2820c137f)
+
+
 
 
