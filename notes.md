@@ -382,3 +382,15 @@ Object - null,
 
 ![Screenshot 2023-10-23 130852](https://github.com/codingXpert/Oops-Notes/assets/101451924/ccf3e921-b003-4d3a-9c43-206b1d89f57c)
 
+**How Super behaves in case of calling constructor when we have a parameterized constructor**
+If we have two classes where there is a parameterized constructor in super class and we are extending the super class in the child class.
+
+Now , If the super() is not added to the child class the compiler will automatically add the super() and as soon as this is done an error is encountered , because the super() of child search for no-argument constructor to the parent level but the parent has a parameterized constructor due to which error is generating.
+
+![Screenshot 2023-10-27 083632](https://github.com/codingXpert/Oops-Notes/assets/101451924/bb871ae2-c9c6-4f10-a212-f44545a65117)
+
+
+To overcome this error we have to we have to explicitly call the super() and pass the value of variable in this case as compiler does not call parameterized constructor implicitly.
+
+![Screenshot 2023-10-27 084441](https://github.com/codingXpert/Oops-Notes/assets/101451924/8dadd7ec-7126-40ac-9d22-c3341a66ead6)
+
