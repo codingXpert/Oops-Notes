@@ -395,3 +395,8 @@ Object - null,
 
 ![Screenshot 2023-10-27 084441](https://github.com/codingXpert/Oops-Notes/assets/101451924/8dadd7ec-7126-40ac-9d22-c3341a66ead6)
 
+* If we do not add any constructor and that class is empty , compiler will automatically add super() and call the super class.
+
+![Screenshot 2023-10-27 090427](https://github.com/codingXpert/Oops-Notes/assets/101451924/730c3564-8019-4b28-ba59-319cde5f71bb)
+
+![Screenshot 2023-10-27 090523](https://github.com/codingXpert/Oops-Notes/assets/101451924/4949ed22-425c-46c1-9667-b2dd0e62f1ba)
