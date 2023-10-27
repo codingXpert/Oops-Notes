@@ -409,3 +409,13 @@ Object - null,
 
 ![Screenshot 2023-10-27 091523](https://github.com/codingXpert/Oops-Notes/assets/101451924/8fb27eed-0de1-4955-a103-05e90dd537b0)
 
+### Polymorphism
+***
+
+![Screenshot 2023-10-27 093122](https://github.com/codingXpert/Oops-Notes/assets/101451924/f95cc99c-c837-46bf-af64-5c8e8ee61504) 
+
+![Screenshot 2023-10-27 093257](https://github.com/codingXpert/Oops-Notes/assets/101451924/af502110-06be-43da-aae5-4518ff783490)
+
+![Screenshot 2023-10-27 093310](https://github.com/codingXpert/Oops-Notes/assets/101451924/7bef9832-2377-47c8-aa99-e4ba6631842d)
+
+![Screenshot 2023-10-27 093459](https://github.com/codingXpert/Oops-Notes/assets/101451924/0c4abb5c-4a46-4998-adfa-0b79d01a4cd1)
