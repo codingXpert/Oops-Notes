@@ -400,3 +400,12 @@ Object - null,
 ![Screenshot 2023-10-27 090427](https://github.com/codingXpert/Oops-Notes/assets/101451924/730c3564-8019-4b28-ba59-319cde5f71bb)
 
 ![Screenshot 2023-10-27 090523](https://github.com/codingXpert/Oops-Notes/assets/101451924/4949ed22-425c-46c1-9667-b2dd0e62f1ba)
+
+**Example Program(find area)**
+
+![Screenshot 2023-10-27 091556](https://github.com/codingXpert/Oops-Notes/assets/101451924/aaf9e3c5-6bfe-4e5c-8ad2-183a9c454d75)
+
+![Screenshot 2023-10-27 091409](https://github.com/codingXpert/Oops-Notes/assets/101451924/1164d021-4e46-4131-b369-2a38b7697297)
+
+![Screenshot 2023-10-27 091523](https://github.com/codingXpert/Oops-Notes/assets/101451924/8fb27eed-0de1-4955-a103-05e90dd537b0)
+
