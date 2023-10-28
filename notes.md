@@ -412,6 +412,10 @@ Object - null,
 ### Polymorphism
 ***
 
+**Static Polymorphism**
+
+> Static Polymorphism is achieved with the help of Method Overloading.
+
 ![Screenshot 2023-10-27 093122](https://github.com/codingXpert/Oops-Notes/assets/101451924/f95cc99c-c837-46bf-af64-5c8e8ee61504) 
 
 ![Screenshot 2023-10-27 093257](https://github.com/codingXpert/Oops-Notes/assets/101451924/af502110-06be-43da-aae5-4518ff783490)
