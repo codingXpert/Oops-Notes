@@ -438,4 +438,7 @@ Object - null,
 
 ![Screenshot 2023-10-28 161433](https://github.com/codingXpert/Oops-Notes/assets/101451924/27060183-c291-4d30-98af-3728a6daee82)
 
+> **Upcasting**
+
+![Screenshot 2023-10-28 161640](https://github.com/codingXpert/Oops-Notes/assets/101451924/bd40fe8d-0a85-4024-aeb4-7d3dc9afa932)
 
