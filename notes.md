@@ -446,7 +446,20 @@ Object - null,
 
 * Down CCasting is not possible in java as we can't put a bigger item in smaller thing, i.e we can't store a super class in under sub class.
 
-* If we try to do this by forcefully converting the Super class in type Sub, even then we will get some error.
+* If we try to do this forcefully by converting the Super class in type Sub, even then we will get some error.
 
 ![Screenshot 2023-10-28 161757](https://github.com/codingXpert/Oops-Notes/assets/101451924/37e94b0a-8b2d-46cd-ba93-28d5653a160f)
+
+### Advantage Of Method Overriding
+***
+
+- ![#1589F0](https://www.iconsdb.com/icons/download/color/1589F0/circle-16.png) `Each class specifies its own behavior that is one of the important advantage of method overriding.`
+
+![Screenshot 2023-10-28 163423](https://github.com/codingXpert/Oops-Notes/assets/101451924/9a377ac4-c805-4fb0-a63f-e6f1690d97b9)
+
+![Screenshot 2023-10-28 163453](https://github.com/codingXpert/Oops-Notes/assets/101451924/296513e6-679d-4ede-810e-0bf7d026a075)
+
+* In the above example our aim is to create a class which identify and the veg and non-veg animal.
+
+* In this example we are overriding the method of super/parent class in the other available classes and each class is specifying their own behavior.
 
