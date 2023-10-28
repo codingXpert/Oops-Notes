@@ -426,7 +426,7 @@ Object - null,
 
 **Dynamic Polymorphism**
 
-> Dynamic Polymorphism is achieved with the help of Method Overriding.
+> Dynamic Polymorphism is achieved with the help of Method Overriding. It executes at run time.
 
 ![Screenshot 2023-10-28 160032](https://github.com/codingXpert/Oops-Notes/assets/101451924/d63fdcbd-ac10-494c-911e-6c655ada78bb)
 
