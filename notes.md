@@ -423,3 +423,10 @@ Object - null,
 ![Screenshot 2023-10-27 093310](https://github.com/codingXpert/Oops-Notes/assets/101451924/7bef9832-2377-47c8-aa99-e4ba6631842d)
 
 ![Screenshot 2023-10-27 093459](https://github.com/codingXpert/Oops-Notes/assets/101451924/0c4abb5c-4a46-4998-adfa-0b79d01a4cd1)
+
+**Dynamic Polymorphism**
+
+> Dynamic Polymorphism is achieved with the help of Method Overriding.
+
+![Screenshot 2023-10-28 160032](https://github.com/codingXpert/Oops-Notes/assets/101451924/d63fdcbd-ac10-494c-911e-6c655ada78bb)
+
