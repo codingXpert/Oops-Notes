@@ -450,6 +450,18 @@ Object - null,
 
 ![Screenshot 2023-10-28 161757](https://github.com/codingXpert/Oops-Notes/assets/101451924/37e94b0a-8b2d-46cd-ba93-28d5653a160f)
 
+
+**Example**
+
+![Screenshot 2023-10-28 172610](https://github.com/codingXpert/Oops-Notes/assets/101451924/f35fc28f-0c6f-4e83-bdbe-7178f6e6c925)
+
+![Screenshot 2023-10-28 172648](https://github.com/codingXpert/Oops-Notes/assets/101451924/5ad2b01c-0f00-4af5-9828-4ba37d896eaf)
+
+![Screenshot 2023-10-28 172758](https://github.com/codingXpert/Oops-Notes/assets/101451924/ef77505d-5922-4c8b-a0d2-daa3441fcf4c)
+
+![Screenshot 2023-10-28 172832](https://github.com/codingXpert/Oops-Notes/assets/101451924/bdf17e5b-156c-420f-8cc2-a05c9876acd6)
+
+
 ### Advantage Of Method Overriding
 ***
 
