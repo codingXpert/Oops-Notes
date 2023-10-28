@@ -428,5 +428,14 @@ Object - null,
 
 > Dynamic Polymorphism is achieved with the help of Method Overriding. It executes at run time.
 
+> Method Overriding is not possible without inheritance.
+
+> In method overriding we override the method of super/parent class by inheriting it in child class.
+
 ![Screenshot 2023-10-28 160032](https://github.com/codingXpert/Oops-Notes/assets/101451924/d63fdcbd-ac10-494c-911e-6c655ada78bb)
+
+![Screenshot 2023-10-28 161245](https://github.com/codingXpert/Oops-Notes/assets/101451924/0b419a1b-da45-4f11-85b0-0c47f5a06fd7)
+
+![Screenshot 2023-10-28 161433](https://github.com/codingXpert/Oops-Notes/assets/101451924/27060183-c291-4d30-98af-3728a6daee82)
+
 
