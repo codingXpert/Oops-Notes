@@ -442,3 +442,11 @@ Object - null,
 
 ![Screenshot 2023-10-28 161640](https://github.com/codingXpert/Oops-Notes/assets/101451924/bd40fe8d-0a85-4024-aeb4-7d3dc9afa932)
 
+> **Downcasting**
+
+* Down CCasting is not possible in java as we can't put a bigger item in smaller thing, i.e we can't store a super class in under sub class.
+
+* If we try to do this by forcefully converting the Super class in type Sub, even then we will get some error.
+
+![Screenshot 2023-10-28 161757](https://github.com/codingXpert/Oops-Notes/assets/101451924/37e94b0a-8b2d-46cd-ba93-28d5653a160f)
+
