@@ -504,3 +504,15 @@ Object - null,
 ![Screenshot 2023-10-28 212735](https://github.com/codingXpert/Oops-Notes/assets/101451924/e2eb66a6-67ce-4997-8897-8e8da8932ffd)
 
 ![Screenshot 2023-10-28 213115](https://github.com/codingXpert/Oops-Notes/assets/101451924/e0fd8637-6607-436e-8521-863872a58c80)
+
+### How Overridden methods works
+***
+
+* In the above example of RBI , Since we are creating the Object of child class but referencing it to the base class, i.e
+
+> RBI r = new SBI();
+> r.loan();
+
+* So, the execution goes to the class RBI and compiler checks whether the loan function is there if is there then it check whether the loan() function exist in the child class i.e SBI and if is there the compiler returns/prints the output of the overridden method.
+
+* If the loan() method is not there in the base class then this statement  **r.loan();** will give us compile time error.
