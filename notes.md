@@ -510,9 +510,9 @@ Object - null,
 
 * In the above example of RBI , Since we are creating the Object of child class but referencing it to the base class, i.e
 
-> RBI r = new SBI();
+> RBI r = new SBI()
 
-> r.loan();
+> r.loan()
 
 * So, the execution goes to the class RBI and compiler checks whether the loan function is there if is there then it check whether the loan() function exist in the child class i.e SBI and if is there the compiler returns/prints the output of the overridden method.
 
