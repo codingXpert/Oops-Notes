@@ -475,3 +475,32 @@ Object - null,
 
 * In this example we are overriding the method of super/parent class in the other available classes and each class is specifying their own behavior.
 
+### @Override Annotation
+***
+
+![Screenshot 2023-10-28 204518](https://github.com/codingXpert/Oops-Notes/assets/101451924/d473241c-9dbe-4f96-b4e1-cb656fc3ee11)
+
+
+* Suppose we have to many methods in Base class and there are some methods in child class , now how we determine/identify that the methods of child class are overridden methods or these are own methods of child class.
+
+* One of the solution for this is we have to manually check whether these method belongs to the base class or not.
+
+* Or we can use **@Override** annotation just before writing methods which clarify that these methods are overridden from base class.
+
+![Screenshot 2023-10-28 204631](https://github.com/codingXpert/Oops-Notes/assets/101451924/107a5411-b75d-427e-9995-3ec273f48f28)
+
+![Screenshot 2023-10-28 212619](https://github.com/codingXpert/Oops-Notes/assets/101451924/74a951b9-f7ad-4741-b17f-19228b44e4c6)
+
+![Screenshot 2023-10-28 212636](https://github.com/codingXpert/Oops-Notes/assets/101451924/c48d3364-f97f-471b-96e7-8a4032438b41)
+
+* If the methods are not overridden or not available in base class and we are are still using the **@Override** annotation then we will we get compile time error.
+
+> One thing should be noticed here that we can also use comment **//Override** to identify the overridden method instead of **@Override** annotation , then the question why we are using **@Override** annotation.
+
+* We use **@Override** annotation because, by-mistake if we use some method in child class which is not there in base class then at that time we will get compile time error.
+
+* But If we use comment **//Override** then the behavior/operation of the base class is printed as output and will not receive any error.
+
+![Screenshot 2023-10-28 212735](https://github.com/codingXpert/Oops-Notes/assets/101451924/e2eb66a6-67ce-4997-8897-8e8da8932ffd)
+
+![Screenshot 2023-10-28 213115](https://github.com/codingXpert/Oops-Notes/assets/101451924/e0fd8637-6607-436e-8521-863872a58c80)
