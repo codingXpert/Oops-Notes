@@ -522,3 +522,12 @@ Object - null,
 * So, the execution goes to the class RBI and compiler checks whether the loan function is there if is there then it check whether the loan() function exist in the child class i.e SBI and if is there the compiler returns/prints the output of the overridden method.
 
 * If the loan() method is not there in the base class then this statement  **r.loan();** will give us compile time error.
+
+### Co-Variant return type
+***
+
+![Screenshot 2023-10-30 194426](https://github.com/codingXpert/Oops-Notes/assets/101451924/2f12cd52-82a4-479f-a46a-e8888544886e)
+
+![Screenshot 2023-10-30 194733](https://github.com/codingXpert/Oops-Notes/assets/101451924/f56c8238-2199-41a7-8f07-acf6530161ca)
+
+![Screenshot 2023-10-30 193820](https://github.com/codingXpert/Oops-Notes/assets/101451924/0c9ae040-d433-4458-9086-8b836feb8949)
