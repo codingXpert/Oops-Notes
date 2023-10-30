@@ -531,3 +531,12 @@ Object - null,
 ![Screenshot 2023-10-30 194733](https://github.com/codingXpert/Oops-Notes/assets/101451924/f56c8238-2199-41a7-8f07-acf6530161ca)
 
 ![Screenshot 2023-10-30 193820](https://github.com/codingXpert/Oops-Notes/assets/101451924/0c9ae040-d433-4458-9086-8b836feb8949)
+
+
+**================= Changing The Return Type Of Overridden Method ====================**
+
+![Screenshot 2023-10-30 194231](https://github.com/codingXpert/Oops-Notes/assets/101451924/1cb52b9d-f66a-441f-acf5-353f65303b18)
+
+![Screenshot 2023-10-30 194355](https://github.com/codingXpert/Oops-Notes/assets/101451924/4a5ce3fa-5d65-4cbb-a084-d76157a7dd76)
+
+![Screenshot 2023-10-30 194411](https://github.com/codingXpert/Oops-Notes/assets/101451924/3145ad83-4fc8-41d8-b5c6-cd1f96e4f7d5)
