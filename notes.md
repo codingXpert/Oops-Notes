@@ -499,6 +499,11 @@ Object - null,
 
 * We use **@Override** annotation because, by-mistake if we use some method in child class which is not there in base class then at that time we will get compile time error.
 
+![Screenshot 2023-10-30 193154](https://github.com/codingXpert/Oops-Notes/assets/101451924/6ffa1b38-c4d6-4983-9346-b27c77c503cb)
+
+![Screenshot 2023-10-30 192939](https://github.com/codingXpert/Oops-Notes/assets/101451924/5d6fa5aa-58cb-44e8-97cf-c5ad3ab5306f)
+
+
 * But If we use comment **//Override** then the behavior/operation of the base class is printed as output and will not receive any error.
 
 ![Screenshot 2023-10-28 212735](https://github.com/codingXpert/Oops-Notes/assets/101451924/e2eb66a6-67ce-4997-8897-8e8da8932ffd)
