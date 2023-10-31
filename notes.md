@@ -554,6 +554,18 @@ Object - null,
 ![Screenshot 2023-10-30 195842](https://github.com/codingXpert/Oops-Notes/assets/101451924/6b851ebb-7889-477b-a049-249c798fd802)
 
 
+**Code Example**
+
+![Screenshot 2023-10-30 200233](https://github.com/codingXpert/Oops-Notes/assets/101451924/cbf44e90-ea2b-4457-baf8-106700007de0)
+
+![Screenshot 2023-10-30 200309](https://github.com/codingXpert/Oops-Notes/assets/101451924/2411d506-90cf-4257-b4ab-0b97e1e1c29e)
+
+![Screenshot 2023-10-30 200338](https://github.com/codingXpert/Oops-Notes/assets/101451924/ebd0628c-6e40-4821-b9b0-137e34705d62)
+
+![Screenshot 2023-10-30 200409](https://github.com/codingXpert/Oops-Notes/assets/101451924/51889b36-188a-42c9-aff6-12364d0fc6d1)
+
+
+
 
 
 
