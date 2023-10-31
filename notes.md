@@ -576,5 +576,11 @@ Object - null,
 ![Screenshot 2023-10-30 201018](https://github.com/codingXpert/Oops-Notes/assets/101451924/c767346f-f487-4a96-b4fd-085d3e78a906)
 
 
+* If we use lower priority modifiers in child class than the modifiers of base class then we will get compile time error.
+
+![Screenshot 2023-10-30 200527](https://github.com/codingXpert/Oops-Notes/assets/101451924/6eca9312-a309-4060-9f42-da7d8f7db11d)
+
+![Screenshot 2023-10-30 200603](https://github.com/codingXpert/Oops-Notes/assets/101451924/c6dee895-8baa-4e68-a27e-2f8f3dcbb583)
+
 
 
