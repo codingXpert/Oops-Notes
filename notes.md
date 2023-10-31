@@ -540,3 +540,20 @@ Object - null,
 ![Screenshot 2023-10-30 194355](https://github.com/codingXpert/Oops-Notes/assets/101451924/4a5ce3fa-5d65-4cbb-a084-d76157a7dd76)
 
 ![Screenshot 2023-10-30 194411](https://github.com/codingXpert/Oops-Notes/assets/101451924/3145ad83-4fc8-41d8-b5c6-cd1f96e4f7d5)
+
+
+### Role Of Access Modifier While Overriding The Method
+***
+
+![Screenshot 2023-10-30 195423](https://github.com/codingXpert/Oops-Notes/assets/101451924/041277b9-aeb8-47c0-a45b-07fe9fd62d96)
+
+![Screenshot 2023-10-30 195543](https://github.com/codingXpert/Oops-Notes/assets/101451924/e0b20ac2-4046-4c49-b610-6db1b822eae5)
+
+![Screenshot 2023-10-30 195621](https://github.com/codingXpert/Oops-Notes/assets/101451924/83c1f3b6-9fc7-422c-b0eb-2ad6d629d1e6)
+
+![Screenshot 2023-10-30 195842](https://github.com/codingXpert/Oops-Notes/assets/101451924/6b851ebb-7889-477b-a049-249c798fd802)
+
+
+
+
+
